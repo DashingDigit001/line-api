@@ -1,0 +1,31 @@
+###
+POST https://line.hgame7.com/lineOaApi/callbyline HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "John Wick",
+  "number": "1234567890",
+  "line": "2"
+}
+
+###
+POST https://localhost:7103/callbyline HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "John Wick",
+  "number": "1234567890",
+  "line": "2"
+}
+###
+POST http://cloud.simis.tw:8099/SmartHumanResource/api/services/app/CustomerServiceRecord/UpdateCustomerSignature HTTP/1.1
+Content-Type: application/json
+
+ {
+            customerServiceRecordId: 27,
+            customerSignatureDataUri: "base64Data",
+          }
+   
+
+
+

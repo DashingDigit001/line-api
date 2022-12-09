@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EpsCZFnIXoF3LmoqTczLhVhVO+DF2NFYduzIAQNYsYU=",
+  "Source": "LineAPI",
+  "BasePath": "_content/LineAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
